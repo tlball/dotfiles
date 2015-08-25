@@ -115,3 +115,6 @@
 [submodule "home/.tmux/plugins/tmux-resurrect"]
 	path = home/.tmux/plugins/tmux-resurrect
 	url = https://github.com/tmux-plugins/tmux-resurrect.git
+[submodule "home/.tmux/plugins/vim-obsession"]
+	path = home/.tmux/plugins/vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
